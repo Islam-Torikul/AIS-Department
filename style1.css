@@ -1,0 +1,25 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.1)), url(just3.jpg);
+	height:100%;
+	background-size:cover;
+	background-position:center;
+}
+#btn button
+{
+    padding:15px;
+    margin: 25px;
+}
+#btn a
+{
+    color:white;
+    text-decoration:none;
+}
+#link a:hover
+{
+    color:white;
+}
